@@ -36,7 +36,7 @@ gem 'bcrypt', '~> 3.1'
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 # AWS S3
-gem 'aws-sdk-s3', '~> 1.114'
+gem 'aws-sdk-s3', '~> 1.126'
 # Webrick
 gem 'webrick', '~> 1.7'
 # Mail gem
